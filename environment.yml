@@ -43,6 +43,9 @@ dependencies:
     - langchain-community
     - feedparser
     - twilio
+    - selenium
+    - webdriver
     - pydub
     - protobuf==3.20.2
     - wandb
+
