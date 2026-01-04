@@ -44,9 +44,9 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers>=4.56.2",
     "wandb>=0.22.1",
-    "selenium>=4.39.0",
-    "webdriver>=3.8.5"
+    "selenium>=4.39.0"
 
 ]
+
 
 
