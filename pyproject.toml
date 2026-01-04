@@ -45,6 +45,7 @@ dependencies = [
     "transformers>=4.56.2",
     "wandb>=0.22.1",
     "selenium>=4.39.0",
-    "webdriver>=4.0.2"
+    "webdriver>=3.8.6"
 
 ]
+
