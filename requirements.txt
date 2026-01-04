@@ -27,7 +27,6 @@ chromadb
 plotly
 jupyter-dash
 selenium
-webdriver
 beautifulsoup4
 pydub
 modal
@@ -39,4 +38,5 @@ sentence_transformers
 feedparser
 protobuf==3.20.2
 wandb
+
 
