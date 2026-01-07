@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.11
+  - python=3.13.5
   - pip
   - python-dotenv
   - requests
@@ -52,5 +52,6 @@ dependencies:
     - mypy-protobuf
     - mypy-pydantic
     - mypy-pydantic-core
+
 
 
