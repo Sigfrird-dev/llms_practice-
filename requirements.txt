@@ -38,5 +38,11 @@ sentence_transformers
 feedparser
 protobuf==3.20.2
 wandb
+mypy
+mypy-extensions
+mypy-protobuf
+mypy-pydantic
+mypy-pydantic-core
+
 
 
